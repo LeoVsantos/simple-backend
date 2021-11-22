@@ -5,7 +5,7 @@ A Node.js project written using Express.
 # Installation
 
 ```sh
-1. to set up `ormconfig.json` from your postgres database. (example file: `ormconfig-example.json`)
+1. to set up `ormconfig.json` from your postgres database.
 2. yarn install
 3. yarn typeorm migration:run
 4. yarn dev
